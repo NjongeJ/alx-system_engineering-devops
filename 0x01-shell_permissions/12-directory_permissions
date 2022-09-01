@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir chmod 751 /alx-system_engineering-devops/0x01-shell_permissions/my_dir 
